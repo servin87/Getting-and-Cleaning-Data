@@ -1,4 +1,4 @@
-library(dplyr) ##Loads the dplyr library
+library(dplyr) ##Loads the dplyr library 
 
 ## Reads the files required to create the tidy dataset
 subject_test <- read.table("./test/subject_test.txt") 
